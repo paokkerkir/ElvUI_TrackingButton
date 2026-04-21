@@ -12,7 +12,7 @@ ElvUI hides the default Minimap tracking button but provides no replacement. Thi
 - Draggable and lockable position, saved per profile
 - Configurable size (16–40px) via `/ec` → **Tracking Button**
 - Right-click to instantly reset position to default
-- Excludes itself cleanly — blacklist frame name `ElvUITrackingButton` in any minimap button collector
+- Excludes itself cleanly - blacklist frame name `ElvUITrackingButton` in any minimap button collector
 
 ## Requirements
 
@@ -23,7 +23,7 @@ ElvUI hides the default Minimap tracking button but provides no replacement. Thi
 
 1. Download or clone this repository
 2. Copy the `ElvUI_TrackingButton` folder into your `Interface/AddOns/` directory
-3. Reload or log in — the button appears on your Minimap immediately
+3. Reload or log in - the button appears on your Minimap immediately
 
 ## Usage
 
