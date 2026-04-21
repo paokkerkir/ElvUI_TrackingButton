@@ -1,0 +1,8 @@
+## Interface: 30300
+## Author: paokkerkir
+## Version: 1.0
+## Title: |cff1784d1E|r|cffe5e3e3lvUI|r |cff1784d1Track|r|cffe5e3e3ing|r |cff1784d1Bu|r|cffe5e3e3tton|r
+## Notes: ElvUI Plugin Framework.
+## RequiredDeps: ElvUI
+
+ElvUI_TrackingButton.lua
